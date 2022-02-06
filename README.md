@@ -1,2 +1,2 @@
-# simbirsoft-account-project
-simbirsoft-account-project
+# account-project
+account-project
